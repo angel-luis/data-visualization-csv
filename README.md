@@ -4,10 +4,10 @@ Small project for learning Python. This _Jupyter Notebook_ analyses a _CSV_ file
 
 ## Usage
 
-Install **Jupyter Notebook** and **Pandas**.
+Install **Jupyter Notebook**, **Pandas** and **Matplotlib**.
 
 ```bash
-pip install notebook pandas
+pip install notebook pandas matplotlib
 ```
 
 Run the notebook locally.
